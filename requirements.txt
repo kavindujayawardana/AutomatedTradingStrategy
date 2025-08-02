@@ -2,6 +2,8 @@ finnhub-python
 pandas
 numpy
 matplotlib
+backtrader
+tensorflow
+keras-tuner
+scikit-learn
 streamlit
-pytest
-plotly
