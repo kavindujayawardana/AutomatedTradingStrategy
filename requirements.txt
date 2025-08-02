@@ -1,0 +1,7 @@
+finnhub-python
+pandas
+numpy
+matplotlib
+streamlit
+pytest
+plotly
